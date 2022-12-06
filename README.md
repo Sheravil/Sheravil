@@ -1,13 +1,13 @@
 ### Hi my name is Emin Çuha, Frontend Web Developer
 
-İ have using some programming language such as JavaScript in collaboration with HTML and CSS to build web sites.
+İ have using programming language JavaScript in collaboration with HTML and CSS to build web sites.
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emincuha/)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
